@@ -1,1 +1,1 @@
-Frontend for RushBit
+# Frontend for RushBit
